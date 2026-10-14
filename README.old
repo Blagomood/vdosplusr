@@ -1,15 +1,33 @@
-# vDosPlus
- vDosPlus 2015.11.01 fork (http://vdosplus.org/) with some enhancements:
- 1. x64 build possible;
- 2. Wine64 fix keyboard control keys : Up, Down etc. some mistake in source code was fixed;
- 3. Default (included to binary) TTF font now is LiberationMono-Regular.ttf - more CHCP possible without external TTF;
- 4. Speed up compile use precompiled headers;
- 5. Fresh freetype lib now included and compiled;
- 6. Directory bin included precompiled Windows x64/x32 vDosPlus.exe
- 7. Include orignial sources and binaries.
- 
-For build need VS2015/VS2017/VS2019 command line compiler + winkit-10.0.10586.0
-OR
-Mingw/Clang distro from http://winlibs.com/
+# vDosPlusR
 
-PS CMakeLists.txt configurer as CLion project.
+vDosPlusR — бесплатный и открытый проект, переработанная версия
+ неигрового DOS-эмулятора [vDosPlus](https://sourceforge.net/projects/vdosplus/) с полной поддержкой кириллицы. 64-bit.
+
+## Что улучшено
+
+- **Ликвидированы кракозябры в названиях папок и файлов** — корректная
+  работа с кириллицей в файловой системе.
+- **Исправлен сбой при совпадении начала названий папок**.
+- **Работает вставка по Ctrl-V и правой кнопкой мыши** — как в обычных
+  консольных приложениях Windows.
+
+Последний пункт можно отключить: RCLKPASTE = OFF в config.txt.  Для Borland Pascal всегда отключено независимо от этой настройки, там у ПКМ другая функция.
+
+## Установка
+
+1. скачайте архив со страницы [Releases](ссылка на releases), распакуйте, запустите `vDosPlusR.exe`; вы увидите загруженный DOS Navigator.
+либо 
+2. возьмите отдельно vDosPlusR.exe, добавьте в вашу папку с уже настроенной vDosPlus и запускайте его.
+
+Об ошибках и идеях по улучшению пишите в Issues.
+
+## Лицензия
+
+Проект распространяется под **GNU GPL версии 2**.
+Предшественники: команда DOSBox, Jos Schaars (vDos), Wengier Wu (vDosPlus).
+
+**Примечание о зависимостях:** в составе проекта используется библиотека FreeType (лицензия FTL/GPLv2-совместимая). Условия её использования указаны в документации FreeType.
+
+## Поблагодарить автора за самоотверженный труд на благо Родины:
+- **Перевод по СБП** на (8)9033187388
+- **ЮMoney:** [страница поддержки](https://yoomoney.ru/fundraise/1KSQS87OMB3.261013)
