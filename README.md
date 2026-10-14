@@ -16,7 +16,7 @@ vDosPlusR — бесплатный и открытый проект, перер�
 
 1. скачайте архив со страницы [Releases](https://github.com/Blagomood/vdosplusr/releases/latest), распакуйте, запустите `vDosPlusR.exe`; вы увидите загруженный DOS Navigator.
 либо 
-2. возьмите отдельно vDosPlusR.exe, добавьте в вашу папку с уже настроенной vDosPlus и запускайте его.
+2. возьмите отдельно vDosPlusR.exe, добавьте в вашу папку с уже настроенной vDosPlus и запускайте его оттуда.
 
 Об ошибках и идеях по улучшению пишите в [Issues](https://github.com/Blagomood/vdosplusr/issues).
 
