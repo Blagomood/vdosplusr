@@ -22,7 +22,7 @@ vDosPlusR — бесплатный и открытый проект, перер�
 
 ## Скриншот
 
-![DOS Navigator в окне программы](docs/screenshotDN.png)
+![DOS Navigator в окне программы](screenshotDN.png)
 
 ## Лицензия
 
