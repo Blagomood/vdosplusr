@@ -1,6 +1,7 @@
 # vDosPlusR
 
 vDosPlusR — переработанная 64-битная версия неигрового DOS-эмулятора [vDosPlus](https://sourceforge.net/projects/vdosplus/) с полной поддержкой кириллицы. 
+Основано на форке от jossk (joss) — vDosPlus 2015.11.01 с его доработками. (https://github.com/jossk/vDosPlus)
 
 ## Что улучшено
 
@@ -26,7 +27,7 @@ vDosPlusR — переработанная 64-битная версия неиг
 ## Лицензия
 
 Проект распространяется под **GNU GPL версии 2**.
-Предшественники: команда DOSBox, Jos Schaars (vDos), Wengier Wu (vDosPlus).
+Предшественники: команда DOSBox, Jos Schaars (vDos), Wengier Wu (vDosPlus), jossk.
 
 **Примечание о зависимостях:** в составе проекта используется библиотека FreeType (лицензия FTL/GPLv2-совместимая). Условия её использования указаны в документации FreeType.
 
