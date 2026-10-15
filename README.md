@@ -14,7 +14,7 @@ vDosPlusR — переработанная 64-битная версия неиг
 
 ## Установка
 
-1. скачайте архив со страницы [Releases](https://github.com/Blagomood/vdosplusr/releases/latest), распакуйте, запустите `vDosPlusR.exe`; вы увидите загруженный DOS Navigator; можно вместо него вписать нужную вам программу в autoexec.txt. 
+1. скачайте архив со страницы [Releases](https://github.com/Blagomood/vdosplusr/releases/latest), распакуйте папку в корень диска C, запустите `vDosPlusR.exe`; вы увидите загруженный DOS Navigator; можно вместо него вписать нужную вам программу в autoexec.txt. 
 2. либо возьмите из архива отдельно vDosPlusR.exe, добавьте в вашу папку с уже настроенной vDosPlus и запускайте его оттуда.
 
 Об ошибках и идеях по улучшению пишите в [Issues](https://github.com/Blagomood/vdosplusr/issues).
