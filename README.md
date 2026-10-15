@@ -19,7 +19,7 @@ vDosPlusR — переработанная 64-битная версия неиг
 
 Об ошибках и идеях по улучшению пишите в [Issues](https://github.com/Blagomood/vdosplusr/issues).
 
-## Скриншот
+## Скриншот с DN
 
 ![DOS Navigator в окне программы](screenshotDN.png)
 
