@@ -1,6 +1,6 @@
 # vDosPlusR
 
-vDosPlusR — бесплатный и открытый проект, переработанная 64-битная версия неигрового DOS-эмулятора [vDosPlus](https://sourceforge.net/projects/vdosplus/) с полной поддержкой кириллицы. 
+vDosPlusR — переработанная 64-битная версия неигрового DOS-эмулятора [vDosPlus](https://sourceforge.net/projects/vdosplus/) с полной поддержкой кириллицы. 
 
 ## Что улучшено
 
